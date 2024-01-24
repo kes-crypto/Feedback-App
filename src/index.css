@@ -7,9 +7,6 @@
 
 :root {
     font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  
-   
-  
   }
   
   body {
@@ -34,7 +31,7 @@
     height: 200px;   
   }
   .Navbar{    
-    border: 1px solid green;
+    
     background-color: #373F68;
     color: white;
   
@@ -42,5 +39,6 @@
   .FEED{
     display: flex;
     flex-direction: column;
-    
+    border: 1px solid rgb(68, 0, 255);
+    margin-left:50px
   }

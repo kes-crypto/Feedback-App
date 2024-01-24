@@ -3,7 +3,7 @@ import EmptyImage from "../Assests/image.svg";
 
 const Suggestion = () => {
   return (
-    <div className="FEED bg-white rounded-lg flex-col items-center justify-center mx-6 md:mx-0 mb-6">
+    <div className="FEED bg-white rounded-lg flex-col items-center justify-center md:mx-0 mb-6">
       <div className="mt-10 ml-36 pt-10 ">
         <img src={EmptyImage} alt="" srcset="" />
       </div>

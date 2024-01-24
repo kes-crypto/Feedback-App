@@ -6,7 +6,7 @@ import blue from "../../Assests/blue.svg";
 const Categories = () => {
   return (
     <>
-      <div className="MainDiv hidden md:flex  justify-between lg:flex-col">
+      <div className="MainDiv hidden md:flex  justify-between lg:flex-col pb-4 pl-6 pr-6 pt-4 text-neutral-white">
         <div className="rounded-lg bg-white text-[#4661E6] font-bold w-1/2 h-full p-5">
           <button className="text-white py-1 px-3 bg-[#4661E6] rounded-lg hover:bg-[#CFD7FF]">
             All
