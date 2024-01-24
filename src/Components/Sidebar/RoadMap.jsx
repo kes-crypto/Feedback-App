@@ -1,7 +1,7 @@
 import React from "react";
 
 const RoadMap = () => {
-  return <div>RoadMap</div>;
+  return <div></div>;
 };
 
 export default RoadMap;

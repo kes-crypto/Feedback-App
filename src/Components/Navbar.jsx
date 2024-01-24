@@ -1,5 +1,4 @@
 import * as React from "react";
-//import Tick from "../assets/Path 3.png";
 import edit from "../Assests/edit.svg";
 export default function Suggestions() {
   const [open, setOpen] = React.useState(false);
@@ -7,7 +6,7 @@ export default function Suggestions() {
     setOpen(!open);
   }
   return (
-    <div className="SUG flex justify-between p-5 md:rounded-lg md:mt-10 lg:mt-0 lg:ml-6 lg:w-11/12 bg-white md:w-screen ">
+    <div className="Navbar flex justify-between p-5 md:rounded-lg md:mt-10 lg:mt-0 lg:ml-6 lg:w-11/12 bg-white md:w-screen ">
       <div className="md:flex hidden ">
         <img src={edit} alt="" srcset="" />
         <p className="font-bold mx-3">0 Suggestions</p>
@@ -16,15 +15,6 @@ export default function Suggestions() {
         <p className="md:mx-3">Sort by : </p>
         <button onClick={handleOpen} className="flex items-center">
           <span className="font-bold mr-3">Most Upvotes</span>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="9"
-            height="7"
-            viewBox="0 0 9 7"
-            fill="none"
-          >
-            <path d="M1 1L5 5L9 1" stroke="white" stroke-width="2" />
-          </svg>
         </button>
         {open && (
           <div className=" absolute top-48 md:top-80 lg:top-20 md:right-80  w-60 h-48 z-40 bg-white font-semibold text-left text-[#647196]  shadow-md p-5 rounded-lg">
