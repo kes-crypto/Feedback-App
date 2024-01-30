@@ -3,6 +3,7 @@ import Logo from "./Components/Sidebar/Logo";
 import Categories from "./Components/Sidebar/Categories";
 import Suggestions from "./Components/Suggestion";
 import Menu from "./Components/Navbar";
+import Form from "./Components/CreateSuggestionForm";
 
 function App() {
   return (
@@ -16,8 +17,8 @@ function App() {
             </div>
           </div>
           <div className="">
-            <Menu />
             <Suggestions />
+            <Form />
           </div>
         </div>
         <div className="md:hidden lg:hidden">
