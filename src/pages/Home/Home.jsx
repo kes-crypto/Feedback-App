@@ -146,7 +146,6 @@ const Home = ({
                 <img src={Icon} alt="Icon" srcset="" />
               </div>
               <div className="number-of-suggestions">
-                flex font-bold gap-4 text-3xl text-white
                 {suggestions.length}
                 <h2>Suggestions</h2>
               </div>
