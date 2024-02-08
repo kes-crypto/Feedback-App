@@ -1,18 +1,8 @@
 /** @type {import('tailwindcss').Config} */
-export default {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-    "./src/Components/*.jsx",
-  ],
+module.exports = {
+  content: ["./src/**/*.{html,js}"],
   theme: {
     extend: {},
-  },
-  extend: {
-    backgroundImage: {
-      mobile: "url('/src/assets/background-header.png')",
-      desktop: "url('/src/assets/background-header.png')",
-    },
   },
   plugins: [],
 };
