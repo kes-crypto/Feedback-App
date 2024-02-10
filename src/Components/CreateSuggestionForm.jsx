@@ -53,7 +53,7 @@ function CreateSuggestionForm({ suggestions, setSuggestions }) {
   };
 
   return (
-    <div className="edit-suggestion--container">
+    <div className="FEED bg-white rounded-lg flex-col items-center justify-center md:mx-0 mb-6">
       <Link to="#" className="back-btn">
         <button>
           <img src={back} alt="backbtn" srcset="" />
