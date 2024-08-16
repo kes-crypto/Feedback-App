@@ -36,11 +36,6 @@ Users should be able to:
 
 ![Design preview for the Product feedback app coding challenge](./preview.jpg)
 
-### Links
-
-- Solution URL: [https://www.frontendmentor.io/solutions/react-app-for-desktop-implementing-session-storage-tmkQdYZRQ](https://www.frontendmentor.io/solutions/react-app-for-desktop-implementing-session-storage-tmkQdYZRQ)
-- Live Site URL: [https://thirsty-clarke-9a6686.netlify.app/](https://thirsty-clarke-9a6686.netlify.app/)
-
 ## My process
 
 ### Built with
@@ -51,7 +46,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Figma for design
-- Netlify for deployment
+- Vercel for deployment
 
 ### What I learned
 
@@ -61,8 +56,3 @@ My goal with this project was to just build a React project, as the last few pro
 
 I would like to write more unit tests, starting with this project. I'll likely go back through all my previous apps and add unit tests where I can.
 
-## Author
-
-- [Jesse's Portfolio Website](https://www.codebyronda.com)
-- [Jesse's LinkedIn Profile](https://www.linkedin.com/in/jesse-ronda-46a6a1205)
-- [Jesse's Frontend Mentor Profile](https://www.frontendmentor.io/profile/jesse10930)
