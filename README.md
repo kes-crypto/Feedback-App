@@ -14,7 +14,6 @@ This is a solution to the [Product feedback app challenge on Frontend Mentor](ht
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Author](#author)
 
 ## Overview
 
@@ -50,7 +49,7 @@ Users should be able to:
 
 ### What I learned
 
-My goal with this project was to just build a React project, as the last few projects have been vanilla JavaScript. Just wanted to continue working, learning, improving, make something similar to my last React app, and see how I'm progressing. I wanted to focus on keeping components and functions small and clean.
+My goal with this project was to just build a React project, as I am learning react currently and could have easily doen it with vanilla JS.I just wanted to continue working, learning, improving, make something tangible with react, and see how I'm progressing. I wanted to focus on keeping components and functions small and clean.
 
 ### Continued development
 
